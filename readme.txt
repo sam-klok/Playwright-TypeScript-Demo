@@ -1,4 +1,4 @@
-Playing with Playwright testing software for TypeScript.
+I'm studying testing software Playwright for TypeScript.
 Thank you,
 Sergio (Sam) Klokov
 
@@ -11,8 +11,14 @@ npm init playwright@latest
 
 3. Install VS Code extension: Playwright Test for VSCode
 
-4. To run tests:
+4. To run tests (it will test website https://playwright.dev ):
 npx playwright test
+
+5. To run/debug tests in VS with extension
+Go to menu "Testing" (chemical bottle on the left), see screens.
+
+6. To record tests from manual input the browser https://playwright.dev/docs/codegen-intro
+npx playwright codegen
 
 2. install Playwright results:
 PS C:\Repos\Playwright-TypeScript-Demo> npm init playwright@latest
